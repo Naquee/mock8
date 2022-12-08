@@ -1,0 +1,73 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "avatar":"https://i.pravatar.cc/150?img=23",
+        "user_name":"Gertrudis@Yoyo",
+        "name": "Gertrudis Tatterton",
+        "email": "gtatterton0@ehow.com",
+        "Follwers":"Follwers 5",
+        "following":"Follwing 7",
+        "password":"12345"
+      },
+      {
+        "id": 2,
+        "avatar":"https://i.pravatar.cc/150?img=37",
+        "user_name":"Roshni@Yoyo",
+        "name": "Roshani",
+        "email": "Roshani0@ehow.com",
+        "Follwers":"Follwers 5",
+        "following":"Follwing 7",
+        "password":"12345"
+      },
+      {
+        "id": 3,
+        "avatar":"https://i.pravatar.cc/150?img=45",
+        "user_name":"Somiya@Yoyo",
+        "name": "Somiya",
+        "email": "Somiya0@ehow.com",
+        "Follwers":"Follwers 5",
+        "following":"Follwing 7",
+        "password":"12345"
+      },
+      {
+        "id": 4,
+        "avatar":"https://i.pravatar.cc/150?img=6",
+        "user_name":"Rohan@Yoyo",
+        "name": "Rohan",
+        "email": "Rohan@ehow.com",
+        "Follwers":"Follwers 5",
+        "following":"Follwing 7",
+        "password":"12345"
+      },
+      {
+        "id": 5,
+        "avatar":"https://i.pravatar.cc/150?img=55",
+        "user_name":"soya@Yoyo",
+        "name": "Soya",
+        "email": "Soya0@ehow.com",
+        "Follwers":"Follwers 5",
+        "following":"Follwing 7",
+        "password":"12345"
+      },
+      {
+        "id": 6,
+        "avatar":"https://i.pravatar.cc/150?img=37",
+        "user_name":"Roshni@Yoyo",
+        "name": "Roshani",
+        "email": "Roshani0@ehow.com",
+        "Follwers":"Follwers 5",
+        "following":"Follwing 7",
+        "password":"12345"
+      }
+      
+    ],
+    "posts":[
+        {
+          "id":1,
+          "username":"X",
+          "note":"Y",
+          "gip":""
+        }
+  ]
+  }

@@ -1,0 +1,24 @@
+{
+  "name": "mock8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naquee/mock8.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Naquee/mock8/issues"
+  },
+  "homepage": "https://github.com/Naquee/mock8#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
